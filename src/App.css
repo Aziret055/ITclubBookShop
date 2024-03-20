@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.container {
+	max-width: 1385px;
+	margin: 0 auto;
+}
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+button {
+	cursor: pointer;
+	border: none;
+}
